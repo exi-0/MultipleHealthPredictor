@@ -38,7 +38,7 @@ Each prediction page includes multiple input fields such as:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/multiple-disease-prediction.git
+   git clone https://github.com/exi-0/MultipleHealthPredictor.git
    cd multiple-disease-prediction
 
 ## 🧪 Input Parameters
